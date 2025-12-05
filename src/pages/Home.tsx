@@ -1,4 +1,5 @@
-import { Link } from 'react-router-dom'
+// Home page content
+
 
 export default function Home() {
   return (
